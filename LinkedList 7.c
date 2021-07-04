@@ -1,5 +1,5 @@
 // typedef version of list6 program
-// Display: Inserting nodes.. First and Last 
+// Display: Insert nodes First and Last 
 
 #include<stdio.h>
 #include<stdlib.h>
